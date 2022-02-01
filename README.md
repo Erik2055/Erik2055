@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erik2055
+- 👋 Hi, I’m Erik
 - 👀 I’m interested in music :) and GUI's
 - 🌱 I’m currently learning python
 
